@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg,#09f81d,#e8f805);
+    padding: 10px;
+}
+.login{
+    width: 100%;
+    max-width: 540px;
+    background-color: paleturquoise;
+    margin: 100px auto 20px; 
+    padding: 40px 30px 70px; 
+    border-radius: 10px;
+}
